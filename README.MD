@@ -17,7 +17,7 @@
     ```
     pip3 install sqlalchemy
     ```
-  - Integrating flask-rest
+  - Integrating flask-rest and swagger
     ```
     pip3 install flask-restful
     pip3 install flask_restful_swagger
