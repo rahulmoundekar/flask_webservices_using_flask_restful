@@ -22,6 +22,7 @@
     pip3 install flask-restful
     ``` 
   - create project architecture like below
+  
      ![N|Solid](structure.PNG) 
      
   - Create EmployeeService.py for development
