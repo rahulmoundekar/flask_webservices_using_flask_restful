@@ -11,15 +11,16 @@
     ```
   - Install flask:
     ```
-    pip install flask
+    pip3 install flask
     ```
  - Integrating SqlAlchemy
     ```
-    pip install sqlalchemy
+    pip3 install sqlalchemy
     ```
   - Integrating flask-rest
     ```
     pip3 install flask-restful
+    pip3 install flask_restful_swagger
     ``` 
   - create project architecture like below
   
